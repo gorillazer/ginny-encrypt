@@ -1,2 +1,2 @@
 # ginny-encrypt
-Encrypt library for ginny. aes/des/rsa
+Encrypt library for ginny. aes/rsa
