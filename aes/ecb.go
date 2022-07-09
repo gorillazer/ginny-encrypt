@@ -3,7 +3,7 @@ package aes
 import (
 	"crypto/aes"
 
-	encrypt "github.com/gorillazer/ginny-encrypt"
+	encrypt "github.com/goriller/ginny-encrypt"
 )
 
 // NewECB 创建实现了ECB模式的加密器

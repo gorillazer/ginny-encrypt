@@ -4,7 +4,7 @@ import (
 	"crypto/aes"
 	"crypto/cipher"
 
-	encrypt "github.com/gorillazer/ginny-encrypt"
+	encrypt "github.com/goriller/ginny-encrypt"
 )
 
 // NewCBC 创建实现了CBC模式的加密器
