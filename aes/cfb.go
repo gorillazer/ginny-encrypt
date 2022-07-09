@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"io"
 
-	encrypt "github.com/gorillazer/ginny-encrypt"
+	encrypt "github.com/goriller/ginny-encrypt"
 )
 
 // NewCFB 创建实现了CFB模式的加密器

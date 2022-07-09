@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	encrypt "github.com/gorillazer/ginny-encrypt"
+	encrypt "github.com/goriller/ginny-encrypt"
 )
 
 var (

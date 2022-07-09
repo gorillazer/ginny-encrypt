@@ -6,7 +6,7 @@ import (
 	"crypto/rand"
 	"io"
 
-	encrypt "github.com/gorillazer/ginny-encrypt"
+	encrypt "github.com/goriller/ginny-encrypt"
 )
 
 // NewGCM 返回加密数据携带GMAC认证码的加密器

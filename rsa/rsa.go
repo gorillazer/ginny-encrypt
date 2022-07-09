@@ -7,7 +7,7 @@ import (
 	"encoding/pem"
 	"fmt"
 
-	encrypt "github.com/gorillazer/ginny-encrypt"
+	encrypt "github.com/goriller/ginny-encrypt"
 )
 
 // New 获取RSA加密器
